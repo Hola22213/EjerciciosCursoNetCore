@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nacho\\source\\repos\\CursoNetCore\\WebPizzaStore\\apppizzastore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33060C16-866A-4F1D-B3CE-DB9061E76356}|apppizzastore\\apppizzastore.csproj|c:\\users\\nacho\\source\\repos\\cursonetcore\\webpizzastore\\apppizzastore\\apppizzastore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33060C16-866A-4F1D-B3CE-DB9061E76356}|apppizzastore\\apppizzastore.csproj|solutionrelative:apppizzastore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:97361032:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nacho\\source\\repos\\CursoNetCore\\WebPizzaStore\\apppizzastore\\apppizzastore\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "apppizzastore\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CursoNetCore\\WebPizzaStore\\apppizzastore\\apppizzastore\\Pages\\Index.cshtml",
+              "RelativeToolTip": "apppizzastore\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T10:01:52.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
